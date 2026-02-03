@@ -7,7 +7,7 @@ To develop a neural network regression model for the given dataset.
 Explain the problem statement
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="1357" height="874" alt="Screenshot 2026-02-03 101659" src="https://github.com/user-attachments/assets/f935354f-d0a9-47fa-b725-9957b894329c" />
 
 ## DESIGN STEPS
 ### STEP 1: 
