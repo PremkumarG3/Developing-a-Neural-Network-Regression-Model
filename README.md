@@ -4,8 +4,8 @@
 To develop a neural network regression model for the given dataset.
 
 ## THEORY
-1.The problem involves building a neural network model to predict continuous numerical values rather than categories.
-2.A dataset with input features and corresponding target values is required for training.
+1. The problem involves building a neural network model to predict continuous numerical values rather than categories.
+2. A dataset with input features and corresponding target values is required for training.
 3.The data must be preprocessed, including cleaning, normalization, and splitting into training and testing sets.
 4.A suitable neural network architecture with input, hidden, and output layers is designed.
 5.The model learns patterns by adjusting weights using a loss function like Mean Squared Error.
